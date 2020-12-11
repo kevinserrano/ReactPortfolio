@@ -1,10 +1,10 @@
 import React from "react";
 
-const About = () => {
+function About(){
     return (
     <div>
-        <h1 id="aboutMeTitle">About Me</h1>
-    <section id="aboutMe">
+        <h1 className="aboutMeTitle">About Me</h1>
+    <section className="aboutMe">
         <p>
             I was born Nov. 30th 1984 in San Marcos, TX. I currently reside in San Antonio, TX and work
             in
