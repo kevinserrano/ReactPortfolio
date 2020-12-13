@@ -1,28 +1,22 @@
 {
   "files": {
-    "main.js": "/ReactPortfolio/static/js/main.5dfd2aed.chunk.js",
-    "main.js.map": "/ReactPortfolio/static/js/main.5dfd2aed.chunk.js.map",
+    "main.js": "/ReactPortfolio/static/js/main.1c08bb2c.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.1c08bb2c.chunk.js.map",
     "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.3b164c94.js",
     "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.3b164c94.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/ReactPortfolio/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.481af4be.chunk.js": "/ReactPortfolio/static/js/2.481af4be.chunk.js",
-    "static/js/2.481af4be.chunk.js.map": "/ReactPortfolio/static/js/2.481af4be.chunk.js.map",
+    "static/js/2.e66525d2.chunk.js": "/ReactPortfolio/static/js/2.e66525d2.chunk.js",
+    "static/js/2.e66525d2.chunk.js.map": "/ReactPortfolio/static/js/2.e66525d2.chunk.js.map",
     "index.html": "/ReactPortfolio/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/ReactPortfolio/static/css/2.20aa2d7b.chunk.css.map",
-    "static/js/2.481af4be.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.481af4be.chunk.js.LICENSE.txt",
-    "static/media/Quiz_App.34027672.png": "/ReactPortfolio/static/media/Quiz_App.34027672.png",
-    "static/media/Weather_Dashboard.0d9470b8.png": "/ReactPortfolio/static/media/Weather_Dashboard.0d9470b8.png",
-    "static/media/Work_week_scheduler.4ac7d24a.png": "/ReactPortfolio/static/media/Work_week_scheduler.4ac7d24a.png",
+    "static/js/2.e66525d2.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.e66525d2.chunk.js.LICENSE.txt",
     "static/media/matrix.296fa290.jpeg": "/ReactPortfolio/static/media/matrix.296fa290.jpeg",
-    "static/media/me.8b1dfc65.png": "/ReactPortfolio/static/media/me.8b1dfc65.png",
-    "static/media/userDirectory.03bcc6e0.png": "/ReactPortfolio/static/media/userDirectory.03bcc6e0.png",
-    "static/media/welders.47be0b21.png": "/ReactPortfolio/static/media/welders.47be0b21.png",
-    "static/media/workoutDashboard.4c2dad99.png": "/ReactPortfolio/static/media/workoutDashboard.4c2dad99.png"
+    "static/media/me.8b1dfc65.png": "/ReactPortfolio/static/media/me.8b1dfc65.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3b164c94.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.481af4be.chunk.js",
-    "static/js/main.5dfd2aed.chunk.js"
+    "static/js/2.e66525d2.chunk.js",
+    "static/js/main.1c08bb2c.chunk.js"
   ]
 }
