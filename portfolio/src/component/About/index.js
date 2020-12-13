@@ -13,15 +13,19 @@ const styles = {
         display: "block",
         marginLeft: "auto",
         marginRight: "auto",
-        
-      
+    },
+    title: {
+        textAlign: "center",
+        fontSize: "60px"
+
+
     }
 }
 
 function About(){
     return (
     <div style= {styles.paragraph} className="card">
-        <h1 className="aboutMeTitle">About Me</h1>
+        <h1 className="aboutMeTitle" style= {styles.title}>About Me</h1>
         <img style= {styles.mePic} src={image} alt="me" className="myPic"></img>
         
             <div className="card-body">
