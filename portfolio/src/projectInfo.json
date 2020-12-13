@@ -1,0 +1,50 @@
+[
+    {
+        "appName": "Welders Organizer",
+        "imgName": "welders.png",
+        "appUrl": "https://kevinserrano.github.io/Project1Week7/",
+        "appRepo": "https://github.com/kevinserrano/Project1Week7",
+        "description": "This is a project created to help a welder ( anyone really) stay organized. The user may use this to keep track of what jobs are in progress or already completed.",
+        "groupProject": true
+    },
+    {
+        "appName": "Weather Dashboard Claw",
+        "imgName": "Weather_Dashboard.png",
+        "appUrl": "https://kevinserrano.github.io/MyWeatherDashboard/",
+        "appRepo": "https://github.com/kevinserrano/MyWeatherDashboard",
+        "description": "Fully functioning weather application where the user can look up any city and will receive the weather for the day plus a 5 day forecast.",
+        "groupProject": false
+    },
+    {
+        "appName": "Workday Scheduler",
+        "imgName": "Work_week_scheduler.png",
+        "appUrl": "https://kevinserrano.github.io/WorkDayScheduler/",
+        "appRepo": "https://github.com/kevinserrano/WorkDayScheduler",
+        "description": "This app will help you schedule your day while working 9-5 shift.",
+        "groupProject": false
+    },
+    {
+        "appName": "Quiz App",
+        "imgName": "Quiz_App.png",
+        "appUrl": "https://kevinserrano.github.io/firstQuizApp/",
+        "appRepo": "https://github.com/kevinserrano/firstQuizApp",
+        "description": "Fun app designed to test your knowledge in web development.",
+        "groupProject": false
+    },
+    {
+        "appName": "Workout App",
+        "imgName": "workoutDashboard.png",
+        "appUrl": "https://afternoon-tundra-35677.herokuapp.com",
+        "appRepo": "https://github.com/kevinserrano/WorkOutTracker",
+        "description": "Like working out? This app is perfect for you! Track all your workouts and progress along the way with this easy to use workout app.",
+        "groupProject": false
+    },
+    {
+        "appName": "Employee Directory",
+        "imgName": "userDirectory.png",
+        "appUrl": "https://kevinserrano.github.io/EmployeeDirectory/",
+        "appRepo": "https://github.com/kevinserrano/EmployeeDirectory",
+        "description": "This app is more geared for the employer. The app is a directory app where the employer can look up employee info with a click of a button.",
+        "groupProject": false
+    }
+]

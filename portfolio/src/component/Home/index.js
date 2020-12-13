@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../../images/matrix.jpeg"
+import image from "../Home/matrix.png"
 
 const styles = {
   headerStyle: {

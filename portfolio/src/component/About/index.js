@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../../images/me.png";
+import image from "../About/me.png";
 
 
 const styles = {
@@ -19,10 +19,11 @@ const styles = {
 
 function About(){
     return (
-    <div>
-        <img style= {styles.mePic} src={image} alt="me" className="myPic"></img>
+    <div style= {styles.paragraph} className="card" style="width: 18rem;">
         <h1 className="aboutMeTitle">About Me</h1>
-    <section style= {styles.paragraph}className="aboutMe">
+        <img style= {styles.mePic} src={image} alt="me" className="myPic"></img>
+        
+            <div className="card-body">
         <p>
             I was born Nov. 30th 1984 in San Marcos, TX. I currently reside in 
             San Antonio, TX and work in the oil field industry. The company I 
@@ -44,10 +45,9 @@ function About(){
             work
             and
             family.
-        </p>
-    </section>
+        </p>  
+            </div>
     </div>
-    )
-}
+    )}
 
 export default About;
