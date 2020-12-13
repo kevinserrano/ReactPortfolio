@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../About/me.png";
+import image from "./image/me.png";
 
 
 const styles = {
@@ -12,14 +12,15 @@ const styles = {
         height: "300px",
         display: "block",
         marginLeft: "auto",
-        marginRight: "auto"
+        marginRight: "auto",
+        
       
     }
 }
 
 function About(){
     return (
-    <div style= {styles.paragraph} className="card" style="width: 18rem;">
+    <div style= {styles.paragraph} className="card">
         <h1 className="aboutMeTitle">About Me</h1>
         <img style= {styles.mePic} src={image} alt="me" className="myPic"></img>
         

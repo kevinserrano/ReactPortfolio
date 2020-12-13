@@ -1,11 +1,11 @@
 import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import NavTabs from "../src/component/NavTabs";
-import Home from "./component/pages/Home";
-import About from "./component/pages/About";
-import Projects from "./component/pages/Projects";
-import Contact from "./component/pages/Contact";
-import Footer from "../src/component/Footer";
+import NavTabs from "./component/NavBar";
+import Home from "./component/Home";
+import About from "./component/About";
+import Projects from "./component/Project";
+import Contact from "./component/Contact";
+import Footer from "./component/Footer";
 
 function App() {
   return (
